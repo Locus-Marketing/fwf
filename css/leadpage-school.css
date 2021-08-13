@@ -1,0 +1,79 @@
+.b2s {  }
+
+.b2s-vsl { background-image: url(../images/back-b2s-vsl.jpg); background-repeat: no-repeat; background-size: cover; background-position: center top; }
+
+.b2s .video-wrap { margin:0 auto; width: 100%; max-width: 640px; min-height: 300px; background: #000; }
+
+.b2s .fwf-contain .above-vsl { color: #00AEEF; }
+
+.b2s_heading { margin-bottom: 30px !important; padding: 35px 0; background: #0173bc; text-align: center; color: #fff; position: relative; }
+
+.b2s_heading h2, .b2s_heading h3, .b2s_heading h4, .b2s_heading h5 { color: #fff; }
+
+.b2s .b2s_heading h4 { margin-top: 0; text-transform: uppercase; font-size: 40px; }
+
+.b2s .b2s_heading:after { 
+	display: block; content: ' '; display: block; content: ' '; border: solid transparent; position: absolute; top: 100%; left: 50%; border-width: 20px; border-top: 20px solid #0173BC; margin-left: -20px; }
+
+.b2s-prize { padding: 5px 0; background-color: #3cb878; background-image: url(../images/back-b2s-prizes.jpg); background-position: right top; background-size: auto 100%; background-repeat: no-repeat; }
+
+.b2s-prize h4 { display: inline-block; padding: 0 0 40px; font-size: 43px; color: #fff; border-bottom: 1px solid #fff;  }	
+
+.b2s-prize li { background: url(); padding-left: 2px; margin: 6px 0; color: #fff;  }
+
+.b2s-winners { background-image: url(../images/back-b2s-winners.jpg); background-repeat: no-repeat; background-position: center -25px; background-size: cover; }
+
+.b2s-winners .b2s_heading { background: #6ac1fa; font-size: 34px; }
+
+.b2s-winners .b2s_heading h4 { color: #fff; letter-spacing: .03em; }
+
+.b2s-winners .b2s_heading:after { border-top: 20px solid #6ac1fa; }
+
+.b2s-winners .criteria { margin: 8% 0; list-style: none; }
+
+.b2s-winners .criteria li { float: left; width: 190px; max-width: 100%; color: #fff; font-size: 19px; text-transform: uppercase; text-align: center; line-height: 1.2; font-weight: 600; margin: 0 2.85%; }
+
+.b2s-winners .criteria li:before { display: block; content: ' '; margin: 0 auto 20px; height: 150px; width: 150px; background-image: url(../images/icons-criteria.png); background-repeat: no-repeat;  }
+
+.b2s-winners .criteria li:nth-child(2):before { background-position: -150px 0; }
+.b2s-winners .criteria li:nth-child(3):before { background-position: -300px 0; }
+.b2s-winners .criteria li:last-child:before { background-position: -450px 0; }
+
+.b2s-winners .criteria:after { display: block; content: ' '; clear: both; float: none;  }
+
+.b2s .wpb_accordion_section { margin: 5px 0; }
+
+.b2s .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header { 
+	background-color: #ebebeb; border-radius: 6px; padding: 9px 0; font-weight: bold; color: #25aae1; font-size: 22px; text-shadow: none; }
+
+.b2s .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon { right: 1.1em; top: 1.1em; cursor: pointer; }
+	
+.b2s .myname { color: #252525; font-size: 25px; font-weight: 400; }
+
+.b2s .signoff { color: #0072bc; font-size: 33px; font-weight: 700; }
+
+.b2s .h_huge { text-align: center; color: #0072bc; font-size: 70px !important; font-weight: 700; }
+
+.b2s .h_small { text-align: center; color: #464646; font-size: 36px; font-weight: 700; }
+
+.b2s .addcart { margin: 2% auto; }
+
+.b2s .signup { padding: 3% 0; background: #b7b7b7; position: relative; }
+
+.b2s .signup:before {
+	display: block; content: ' '; display: block; content: ' '; border: solid transparent; position: absolute; top: 0; left: 50%; border-width: 20px; border-top: 20px solid #fff; margin-left: -20px; }
+
+.b2s .signup h3 { color: #fff; }
+
+.b2s-prize .h_underline { display: inline-block; font-size: 43px; text-shadow: 0 0 5px #ccc; padding: 5px 0 15px; border-bottom: 1px solid #fff;  }
+
+.b2s .prize_list { font-size: 300; font-size: 27px; }
+
+.b2s .fwf-contain form h4 { text-align:center; }
+
+@media screen and (max-width: 800) {
+	.b2s-prize { background-position: 50% 50%; background-size: cover; }
+}
+
+
+

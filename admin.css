@@ -1,0 +1,3 @@
+
+/* Hidden Elements */
+body:not(.fwf-superadmin) .notice-warning, .hybrid-core-settings-wrap #wpb_visual_composer, #vc_license-activation-notice, .fwf-admin #poststuff #emb_main { display: none !important; }
